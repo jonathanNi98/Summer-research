@@ -1,0 +1,13 @@
+1.setdiff1d(arr1, arr2).  return unique values in arr1 not in arr2
+   
+arr1 = [5, 6, 2, 3, 4]
+arr2 = [1, 2, 3]
+   
+gfg = geek.setdiff1d(arr1, arr2)
+   
+print (gfg)
+[4 5 6]
+
+2.np.arrange(start, end , step)
+print("A\n", geek.arange(4, 20, 3), "\n")
+ [ 4  7 10 13 16 19]
